@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\temp\\Projeto_ListaDeTerefasAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D95748F8-BB58-4D29-AB28-8EF746869D5F}|Projeto_ListaDeTerefasAPI\\Projeto_ListaDeTarefasAPI.csproj|c:\\temp\\projeto_listadeterefasapi\\projeto_listadeterefasapi\\tarefaendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D95748F8-BB58-4D29-AB28-8EF746869D5F}|Projeto_ListaDeTerefasAPI\\Projeto_ListaDeTarefasAPI.csproj|solutionrelative:projeto_listadeterefasapi\\tarefaendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95748F8-BB58-4D29-AB28-8EF746869D5F}|Projeto_ListaDeTerefasAPI\\Projeto_ListaDeTarefasAPI.csproj|c:\\temp\\projeto_listadeterefasapi\\projeto_listadeterefasapi\\modelos\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D95748F8-BB58-4D29-AB28-8EF746869D5F}|Projeto_ListaDeTerefasAPI\\Projeto_ListaDeTarefasAPI.csproj|solutionrelative:projeto_listadeterefasapi\\modelos\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95748F8-BB58-4D29-AB28-8EF746869D5F}|Projeto_ListaDeTerefasAPI\\Projeto_ListaDeTarefasAPI.csproj|c:\\temp\\projeto_listadeterefasapi\\projeto_listadeterefasapi\\modelos\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D95748F8-BB58-4D29-AB28-8EF746869D5F}|Projeto_ListaDeTerefasAPI\\Projeto_ListaDeTarefasAPI.csproj|solutionrelative:projeto_listadeterefasapi\\modelos\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95748F8-BB58-4D29-AB28-8EF746869D5F}|Projeto_ListaDeTerefasAPI\\Projeto_ListaDeTarefasAPI.csproj|c:\\temp\\projeto_listadeterefasapi\\projeto_listadeterefasapi\\pessoaendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D95748F8-BB58-4D29-AB28-8EF746869D5F}|Projeto_ListaDeTerefasAPI\\Projeto_ListaDeTarefasAPI.csproj|solutionrelative:projeto_listadeterefasapi\\pessoaendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95748F8-BB58-4D29-AB28-8EF746869D5F}|Projeto_ListaDeTerefasAPI\\Projeto_ListaDeTarefasAPI.csproj|c:\\temp\\projeto_listadeterefasapi\\projeto_listadeterefasapi\\data\\projeto_listadeterefasapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D95748F8-BB58-4D29-AB28-8EF746869D5F}|Projeto_ListaDeTerefasAPI\\Projeto_ListaDeTarefasAPI.csproj|solutionrelative:projeto_listadeterefasapi\\data\\projeto_listadeterefasapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95748F8-BB58-4D29-AB28-8EF746869D5F}|Projeto_ListaDeTerefasAPI\\Projeto_ListaDeTarefasAPI.csproj|c:\\temp\\projeto_listadeterefasapi\\projeto_listadeterefasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D95748F8-BB58-4D29-AB28-8EF746869D5F}|Projeto_ListaDeTerefasAPI\\Projeto_ListaDeTarefasAPI.csproj|solutionrelative:projeto_listadeterefasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PessoaEndpoints.cs",
+              "DocumentMoniker": "C:\\temp\\Projeto_ListaDeTerefasAPI\\Projeto_ListaDeTerefasAPI\\PessoaEndpoints.cs",
+              "RelativeDocumentMoniker": "Projeto_ListaDeTerefasAPI\\PessoaEndpoints.cs",
+              "ToolTip": "C:\\temp\\Projeto_ListaDeTerefasAPI\\Projeto_ListaDeTerefasAPI\\PessoaEndpoints.cs",
+              "RelativeToolTip": "Projeto_ListaDeTerefasAPI\\PessoaEndpoints.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwDAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T19:46:43.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Projeto_ListaDeTerefasAPIContext.cs",
+              "DocumentMoniker": "C:\\temp\\Projeto_ListaDeTerefasAPI\\Projeto_ListaDeTerefasAPI\\Data\\Projeto_ListaDeTerefasAPIContext.cs",
+              "RelativeDocumentMoniker": "Projeto_ListaDeTerefasAPI\\Data\\Projeto_ListaDeTerefasAPIContext.cs",
+              "ToolTip": "C:\\temp\\Projeto_ListaDeTerefasAPI\\Projeto_ListaDeTerefasAPI\\Data\\Projeto_ListaDeTerefasAPIContext.cs",
+              "RelativeToolTip": "Projeto_ListaDeTerefasAPI\\Data\\Projeto_ListaDeTerefasAPIContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T18:44:44.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TarefaEndpoints.cs",
+              "DocumentMoniker": "C:\\temp\\Projeto_ListaDeTerefasAPI\\Projeto_ListaDeTerefasAPI\\TarefaEndpoints.cs",
+              "RelativeDocumentMoniker": "Projeto_ListaDeTerefasAPI\\TarefaEndpoints.cs",
+              "ToolTip": "C:\\temp\\Projeto_ListaDeTerefasAPI\\Projeto_ListaDeTerefasAPI\\TarefaEndpoints.cs",
+              "RelativeToolTip": "Projeto_ListaDeTerefasAPI\\TarefaEndpoints.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwDkAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T17:46:54.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\temp\\Projeto_ListaDeTerefasAPI\\Projeto_ListaDeTerefasAPI\\Modelos\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Projeto_ListaDeTerefasAPI\\Modelos\\Pessoa.cs",
+              "ToolTip": "C:\\temp\\Projeto_ListaDeTerefasAPI\\Projeto_ListaDeTerefasAPI\\Modelos\\Pessoa.cs",
+              "RelativeToolTip": "Projeto_ListaDeTerefasAPI\\Modelos\\Pessoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T17:40:33.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tarefa.cs",
+              "DocumentMoniker": "C:\\temp\\Projeto_ListaDeTerefasAPI\\Projeto_ListaDeTerefasAPI\\Modelos\\Tarefa.cs",
+              "RelativeDocumentMoniker": "Projeto_ListaDeTerefasAPI\\Modelos\\Tarefa.cs",
+              "ToolTip": "C:\\temp\\Projeto_ListaDeTerefasAPI\\Projeto_ListaDeTerefasAPI\\Modelos\\Tarefa.cs",
+              "RelativeToolTip": "Projeto_ListaDeTerefasAPI\\Modelos\\Tarefa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T17:40:22.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\temp\\Projeto_ListaDeTerefasAPI\\Projeto_ListaDeTerefasAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Projeto_ListaDeTerefasAPI\\Program.cs",
+              "ToolTip": "C:\\temp\\Projeto_ListaDeTerefasAPI\\Projeto_ListaDeTerefasAPI\\Program.cs",
+              "RelativeToolTip": "Projeto_ListaDeTerefasAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T17:37:10.107Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
